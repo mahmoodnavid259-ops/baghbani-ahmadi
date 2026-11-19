@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mahmoodnavid259-ops.github.io/baghbani-ahmadi/sitemap.xml
